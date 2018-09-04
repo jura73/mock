@@ -1,0 +1,95 @@
+{
+  "id": 410,
+  "nameForMap": "",
+  "address": {
+    "regionName": "",
+    "address": "Сотрудники компании",
+    "mapLatitude": 0.0,
+    "mapLongitude": 0.0
+  },
+  "phones": [
+    "+7 (495) 777-99-80"
+  ],
+  "note": "",
+  "rating": {
+    "totalVotes": 8,
+    "rating": 5.0,
+    "clientRating": 0,
+    "clientShopId": 0,
+    "email": "",
+    "rates": [
+      {
+        "value": 5,
+        "votes": 8,
+        "votesPercent": 100.0
+      }
+    ]
+  },
+  "payTypes": [],
+  "managers": [
+    {
+      "id": 48076,
+      "name": "Хайбуллаев Денис",
+      "phones": [
+        "+7 (800) 777-99-80 доб.284",
+        "+7 (967) 142-33-32"
+      ],
+      "email": "post4@autodoc.ru",
+      "photoUrl": "http://10.15.15.139:80/api/shops/manager/48076/foto"
+    }
+  ],
+  "photos": [],
+  "schedule": {
+    "workOnWeekdays": false,
+    "workOnWeekdaysInterval": {
+      "start": "2018-09-04T00:00:00",
+      "end": "2018-09-04T00:00:00"
+    },
+    "workOnSaturday": false,
+    "workOnSaturdayInterval": {
+      "start": "2018-09-04T00:00:00",
+      "end": "2018-09-04T00:00:00"
+    },
+    "workOnSunday": false,
+    "workOnSundayInterval": {
+      "start": "2018-09-04T00:00:00",
+      "end": "2018-09-04T00:00:00"
+    }
+  },
+  "scheduleOnHoliday": [
+    {
+      "workOnHolidayDate": "2018-06-09T00:00:00",
+      "workOnWeekdaysInterval": {
+        "start": "2018-06-09T11:00:00",
+        "end": "2018-06-09T17:00:00"
+      },
+      "isWorkOnHoliday": true
+    },
+    {
+      "workOnHolidayDate": "2018-06-10T00:00:00",
+      "workOnWeekdaysInterval": {
+        "start": "2018-06-10T11:00:00",
+        "end": "2018-06-10T17:00:00"
+      },
+      "isWorkOnHoliday": true
+    },
+    {
+      "workOnHolidayDate": "2018-06-11T00:00:00",
+      "workOnWeekdaysInterval": {
+        "start": "2018-06-11T09:00:00",
+        "end": "2018-06-11T20:00:00"
+      },
+      "isWorkOnHoliday": true
+    },
+    {
+      "workOnHolidayDate": "2018-06-12T00:00:00",
+      "workOnWeekdaysInterval": {
+        "start": "2018-06-12T11:00:00",
+        "end": "2018-06-12T16:00:00"
+      },
+      "isWorkOnHoliday": true
+    }
+  ],
+  "orgName": "ООО \"Автолавка\" (ИНН 7709941843)",
+  "email": "post1@autodoc.ru; post2@autodoc.ru"
+}
