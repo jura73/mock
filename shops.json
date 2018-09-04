@@ -1,0 +1,3999 @@
+{
+  "shops": [
+    {
+      "id": 385,
+      "nameForMap": "АВТОДОК - Мичуринский",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва,   ул. Озерная, д. 2, корп. 2 (м. Проспект Вернадского)",
+        "mapLatitude": 55.689096,
+        "mapLongitude": 37.470123
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.0607",
+        " +7 (495) 984-21-69",
+        " +7 (968) 742-00-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adm@autodoc.ru"
+    },
+    {
+      "id": 374,
+      "nameForMap": "АВТОДОК - Ленинградка",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва,  Ленинградское шоссе, д.56 (м. Водный стадион)",
+        "mapLatitude": 55.838406,
+        "mapLongitude": 37.483114
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.0225",
+        " +7 (495) 640-09-51",
+        " +7 (962) 917-99-99"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adl@autodoc.ru"
+    },
+    {
+      "id": 376,
+      "nameForMap": "АВТОДОК - Перово",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва,  шоссе Энтузиастов, д.60 корп.1 (м. Перово, Шоссе Энтузиастов)",
+        "mapLatitude": 55.762338,
+        "mapLongitude": 37.774825
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 2200",
+        " +7 (926) 106-11-70"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adp@autodoc.ru"
+    },
+    {
+      "id": 381,
+      "nameForMap": "АВТОДОК - Варшавское шоссе",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Варшавское шоссе, д. 86А (м. Варшавская)",
+        "mapLatitude": 55.650239,
+        "mapLongitude": 37.618985
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.02400",
+        " +7 (926) 135-11-50"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "avs@autodoc.ru"
+    },
+    {
+      "id": 373,
+      "nameForMap": "АВТОДОК-Отрадное",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Высоковольтный проезд д.1, к.1  (м. Алтуфьево, м. Отрадное, м. Бибирево)",
+        "mapLatitude": 55.873951,
+        "mapLongitude": 37.589294
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02150",
+        " +7 (929) 963-16-05"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ada@autodoc.ru"
+    },
+    {
+      "id": 386,
+      "nameForMap": "АВТОДОК - Тимирязевский",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Дмитровское шоссе, д.52, корп.1 (м. Петровско-Разумовская)",
+        "mapLatitude": 55.84665,
+        "mapLongitude": 37.568752
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.02100",
+        " +7 (926) 124-11-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adt@autodoc.ru"
+    },
+    {
+      "id": 470,
+      "nameForMap": "АВТОДОК-Каширка",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Каширское шоссе, д.68, к.1 (м. Каширская, м. Кантемировская)",
+        "mapLatitude": 55.643528,
+        "mapLongitude": 37.676034
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.02320",
+        " +7 (925) 093-62-25"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kash@autodoc.ru"
+    },
+    {
+      "id": 380,
+      "nameForMap": "АВТОДОК-Митино",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Новотушинский проезд, д. 8, корп.1 (м. Волоколамская)",
+        "mapLatitude": 55.838269,
+        "mapLongitude": 37.38057
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02620",
+        " +7 (926) 162-11-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "amt@autodoc.ru"
+    },
+    {
+      "id": 392,
+      "nameForMap": "АВТОДОК - Китай город",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Певческий переулок, д. 1/2, стр. 2Б (м.Китай город)",
+        "mapLatitude": 55.752329,
+        "mapLongitude": 37.642464
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.0275",
+        " +7 (926) 800-08-77"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "pev@autodoc.ru"
+    },
+    {
+      "id": 108,
+      "nameForMap": "АВТОДОК - ВДНХ",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Проспект Мира, д.188 (м. Ботанический сад, м. ВДНХ, м. Свиблово)",
+        "mapLatitude": 55.833604,
+        "mapLongitude": 37.655793
+      },
+      "phones": [
+        "+7 (495) 973-51-73",
+        " +7 (495) 640-66-00 доб.4"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ddp@autodoc.ru"
+    },
+    {
+      "id": 377,
+      "nameForMap": "АВТОДОК- Рязанка",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Рязанский проспект, д.28 с1 (м. Рязанский проспект)",
+        "mapLatitude": 55.71924,
+        "mapLongitude": 37.77915
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02850",
+        " +7 (929) 963-14-32"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adr@autodoc.ru"
+    },
+    {
+      "id": 375,
+      "nameForMap": "АВТОДОК-Измайлово",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, Сиреневый бульвар, д. 63 (м. Щелковская)",
+        "mapLatitude": 55.803656,
+        "mapLongitude": 37.820348
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02350",
+        " +7 (929) 963-16-75"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adiz@autodoc.ru"
+    },
+    {
+      "id": 450,
+      "nameForMap": "АВТОДОК - Южное Бутово",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Адмирала Лазарева, д.36 (м.Улица Горчакова, м. Бульвар Адмирала Ушакова)",
+        "mapLatitude": 55.546188,
+        "mapLongitude": 37.527357
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.02120",
+        " +7 (925) 093-62-14"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adbs@autodoc.ru"
+    },
+    {
+      "id": 378,
+      "nameForMap": "АВТОДОК - Коньково",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Академика Арцимовича, д.6 (м. Беляево)",
+        "mapLatitude": 55.643876,
+        "mapLongitude": 37.512462
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02300",
+        " +7 (925) 091-06-89"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "akn@autodoc.ru"
+    },
+    {
+      "id": 379,
+      "nameForMap": "АВТОДОК-Марьино",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Братиславская, д. 16, корп. 2 (м. Братиславская)",
+        "mapLatitude": 55.658497,
+        "mapLongitude": 37.757409
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02500",
+        " +7 (495) 727-42-84",
+        " +7 (925) 091-5202"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "amr@autodoc.ru"
+    },
+    {
+      "id": 27,
+      "nameForMap": "АВТОДОК - Бауманская",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Малая Почтовая, д.10 (м.Бауманская, м.Электрозаводская)",
+        "mapLatitude": 55.771975,
+        "mapLongitude": 37.68703
+      },
+      "phones": [
+        "+7 (495) 632-10-10",
+        " +7 (495) 640-66-00 доб.5"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "mow@autodoc.ru"
+    },
+    {
+      "id": 464,
+      "nameForMap": "АВТОДОК- Кунцево",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Молодогвардейская д.58 (м. Молодежная)",
+        "mapLatitude": 55.734199,
+        "mapLongitude": 37.393138
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.02220",
+        " +7 (925) 093-62-19"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kun@autodoc.ru"
+    },
+    {
+      "id": 384,
+      "nameForMap": "АВТОДОК - Бутово",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Ратная, д.16, корп.2 (м. Бульвар Дмитрия Донского)",
+        "mapLatitude": 55.577632,
+        "mapLongitude": 37.570613
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.0606",
+        " +7 (495) 640-09-54",
+        " +7 (968) 710-75-55"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "adb@autodoc.ru"
+    },
+    {
+      "id": 192,
+      "nameForMap": "АВТОДОК - Новокосино",
+      "address": {
+        "regionName": "Москва",
+        "address": "г. Москва, ул. Суздальская, д. 12, корп. 4 (м. Новокосино)",
+        "mapLatitude": 55.737779,
+        "mapLongitude": 37.850575
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.9",
+        " +7 (495) 702-04-23"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nkosino@autodoc.ru"
+    },
+    {
+      "id": 393,
+      "nameForMap": "Доставка курьерской службой",
+      "address": {
+        "regionName": "Москва",
+        "address": "Доставка курьерской службой по г.Москва",
+        "mapLatitude": 55.752729,
+        "mapLongitude": 37.642764
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.0290",
+        " +7 (926) 800-08-77"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "send@autodoc.ru"
+    },
+    {
+      "id": 266,
+      "nameForMap": "Автодок - Бронницы",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Бронницы, ул. Советская, д.157",
+        "mapLatitude": 55.414634,
+        "mapLongitude": 38.286197
+      },
+      "phones": [
+        "+7 (926) 661-12-05"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "bron@autodoc.ru"
+    },
+    {
+      "id": 388,
+      "nameForMap": "Автодок - Видное",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Видное, ул. Березовая, д.3",
+        "mapLatitude": 55.544869,
+        "mapLongitude": 37.720979
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02920",
+        " +7 (926) 126-11-90"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vidn@autodoc.ru"
+    },
+    {
+      "id": 184,
+      "nameForMap": "Автодок - Дзержинский",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Дзержинский, ул. Энергетиков, д.10Г, оф. № 18",
+        "mapLatitude": 55.638862,
+        "mapLongitude": 37.827267
+      },
+      "phones": [
+        "+7 (495) 961-45-48"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "dzh@autodoc.ru"
+    },
+    {
+      "id": 489,
+      "nameForMap": "Автодок - Дмитров",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Дмитров, ул. Профессиональная, д. 111А",
+        "mapLatitude": 56.361357,
+        "mapLongitude": 37.528831
+      },
+      "phones": [
+        "+7 (495) 640-66-00",
+        " доб. 2670",
+        " +7 (903) 190-34-85"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "dmr@autodoc.ru"
+    },
+    {
+      "id": 474,
+      "nameForMap": "Автодок - Домодедово",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Домодедово, Каширское шоссе, д. 8",
+        "mapLatitude": 55.44864,
+        "mapLongitude": 37.763223
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.2970",
+        " +7 (966) 116-44-03"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "dmd@autodoc.ru"
+    },
+    {
+      "id": 420,
+      "nameForMap": "Автодок - Дубна",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Дубна, ул. Правды, д.33",
+        "mapLatitude": 56.735077,
+        "mapLongitude": 37.149942
+      },
+      "phones": [
+        "+7 (496) 215-02-20",
+        " +7 (926) 800-08-10"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "dubna1@autodoc.ru"
+    },
+    {
+      "id": 131,
+      "nameForMap": "Автодок - Жуковский",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Жуковский, ул. Мичурина, д.18",
+        "mapLatitude": 55.608428,
+        "mapLongitude": 38.107879
+      },
+      "phones": [
+        "+7 (498) 480-22-77",
+        " +7 (916) 534-50-57"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "zhukovsky@autodoc.ru"
+    },
+    {
+      "id": 389,
+      "nameForMap": "Автодок - Зеленоград",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Зеленоград, корпус 1508",
+        "mapLatitude": 55.98358,
+        "mapLongitude": 37.154205
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 0270",
+        " +7 (495) 786-36-33",
+        " +7 (964) 501-11-15"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "zel@autodoc.ru"
+    },
+    {
+      "id": 205,
+      "nameForMap": "АВТОДОК - Ивантеевка",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Ивантеевка, ул.Толмачева, д.8",
+        "mapLatitude": 55.964813,
+        "mapLongitude": 37.916213
+      },
+      "phones": [
+        "+7(495)640-66-00 доб.2900",
+        " +7 (925) 222-04-74"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ivt@autodoc.ru"
+    },
+    {
+      "id": 398,
+      "nameForMap": "Автодок - Клин",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Клин, пл. Советская, д.11/1",
+        "mapLatitude": 56.334023,
+        "mapLongitude": 36.733142
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб.02700",
+        " +7 (929) 963-15-43"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nkl@autodoc.ru"
+    },
+    {
+      "id": 36,
+      "nameForMap": "Автодок - Коломна",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Коломна, ул. Ленина, д.4",
+        "mapLatitude": 55.079214,
+        "mapLongitude": 38.796865
+      },
+      "phones": [
+        "+7 (496) 613-09-06",
+        " +7 (925) 541-70-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kolomna@autodoc.ru"
+    },
+    {
+      "id": 508,
+      "nameForMap": "Автодок - Королев",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Королёв, ул. Полевая, д.43/12",
+        "mapLatitude": 55.921772,
+        "mapLongitude": 37.872434
+      },
+      "phones": [
+        "+7 (495) 212-19-43",
+        " +7 (915) 490-49-53",
+        " +7 (916) 768-06-51"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "korolev@autodoc.ru"
+    },
+    {
+      "id": 390,
+      "nameForMap": "Автодок - Люберцы",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Люберцы, Октябрьский проспект, д. 162А",
+        "mapLatitude": 55.679479,
+        "mapLongitude": 37.890996
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02450",
+        " +7 (909) 921-50-67"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "lub@autodoc.ru"
+    },
+    {
+      "id": 368,
+      "nameForMap": "Автодок - Мытищи",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Мытищи,  ул. Колпакова, д.25",
+        "mapLatitude": 55.91868,
+        "mapLongitude": 37.729651
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02650",
+        " +7 (925) 093-62-28"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "mts@autodoc.ru"
+    },
+    {
+      "id": 440,
+      "nameForMap": "Автодок - Наро-Фоминск",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Наро-Фоминск,  Площадь Свободы, д.1 Б",
+        "mapLatitude": 55.387261,
+        "mapLongitude": 36.736539
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02550",
+        " +7 (925) 700-11-50"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nrf@autodoc.ru"
+    },
+    {
+      "id": 473,
+      "nameForMap": "Автодок - Одинцово",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Одинцово, ул. Говорова, д. 9А",
+        "mapLatitude": 55.689064,
+        "mapLongitude": 37.294261
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02070",
+        " +7 (967) 112-96-71"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "odn@autodoc.ru"
+    },
+    {
+      "id": 143,
+      "nameForMap": "Автодок - Подольск",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Подольск, Октябрьский пр-т, д.2Г",
+        "mapLatitude": 55.425569,
+        "mapLongitude": 37.506144
+      },
+      "phones": [
+        "+7 (495) 134-52-25",
+        " +7 (4967) 52-08-52"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "podolsk@autodoc.ru"
+    },
+    {
+      "id": 327,
+      "nameForMap": "Автодок - Подольск",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Подольск, ул. Федорова, д.19",
+        "mapLatitude": 55.435237,
+        "mapLongitude": 37.55178
+      },
+      "phones": [
+        "+7 (495) 134-52-25",
+        " +7 (916) 771-84-04"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "podolsk@autodoc.ru"
+    },
+    {
+      "id": 207,
+      "nameForMap": "АВТОДОК - Пушкино",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Пушкино, ул. Базарная, д.24",
+        "mapLatitude": 55.99229,
+        "mapLongitude": 37.866542
+      },
+      "phones": [
+        "+7 (495) 212-19-48",
+        " +7 (916) 978-30-14",
+        " +7 (916) 978-30-15"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "pushkino@autodoc.ru"
+    },
+    {
+      "id": 98,
+      "nameForMap": "Автодок - Сергиев Посад",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Сергиев Посад, ул. Валовая, д.10",
+        "mapLatitude": 56.311696,
+        "mapLongitude": 38.141084
+      },
+      "phones": [
+        "+7 (496) 547-53-48",
+        " +7 (929) 996-50-90"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "sergievposad@autodoc.ru"
+    },
+    {
+      "id": 240,
+      "nameForMap": "Автодок - Серпухов",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Серпухов, ул. Калужская, д.19/11",
+        "mapLatitude": 54.913891,
+        "mapLongitude": 37.413178
+      },
+      "phones": [
+        "+7 (4967) 76-42-12",
+        " +7 (926) 980-64-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "serp@autodoc.ru"
+    },
+    {
+      "id": 367,
+      "nameForMap": "Автодок - Ступино",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Ступино,  ул. Горького д. 29",
+        "mapLatitude": 54.88945,
+        "mapLongitude": 38.078174
+      },
+      "phones": [
+        "+7 (495) 640-66-00  доб.02950",
+        " +7 (926) 075-11-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "stp@autodoc.ru"
+    },
+    {
+      "id": 317,
+      "nameForMap": "АВТОДОК - ТРОИЦК",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Троицк, Калужское шоссе, д.20",
+        "mapLatitude": 55.468924,
+        "mapLongitude": 37.304221
+      },
+      "phones": [
+        "+7 (925) 073-38-28",
+        " +7 (925) 073-38-90"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "troitsk@autodoc.ru"
+    },
+    {
+      "id": 449,
+      "nameForMap": "Автодок - Химки",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Химки, ул. Панфилова, д.4",
+        "mapLatitude": 55.883767,
+        "mapLongitude": 37.427871
+      },
+      "phones": [
+        "+7 (495) 640-66-00 доб. 02020",
+        " +7 (929) 529-02-39"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "xmk@autodoc.ru"
+    },
+    {
+      "id": 411,
+      "nameForMap": "Автодок - Чехов",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Чехов, ул. Московская, д. 25",
+        "mapLatitude": 55.14247,
+        "mapLongitude": 37.452506
+      },
+      "phones": [
+        "+7 (916) 961-62-06"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "chehov@autodoc.ru"
+    },
+    {
+      "id": 358,
+      "nameForMap": "Автодок - Щёлково",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Щелково, ул. Центральная,д.17",
+        "mapLatitude": 55.918798,
+        "mapLongitude": 37.984036
+      },
+      "phones": [
+        "+7(495) 640-66-00 доб.2600",
+        " +7 (926) 928-66-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "slk@autodoc.ru"
+    },
+    {
+      "id": 331,
+      "nameForMap": "Автодок - Электросталь",
+      "address": {
+        "regionName": "Московская область",
+        "address": "г. Электросталь, ул. Северная, д. 5А",
+        "mapLatitude": 55.813989,
+        "mapLongitude": 38.432135
+      },
+      "phones": [
+        "+7 (926) 540-540-4",
+        " +7 (499) 112-46-44"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "stl@autodoc.ru"
+    },
+    {
+      "id": 428,
+      "nameForMap": "АВТОДОК - Приморский",
+      "address": {
+        "regionName": "Санкт-Петербург и Ленинградская область",
+        "address": "г.  Санкт-Петербург, ул. Гаккелевская, д.20, к.1 (м. Комендантский проспект)",
+        "mapLatitude": 59.99991,
+        "mapLongitude": 30.253622
+      },
+      "phones": [
+        "+7 (812) 640-66-00",
+        " +7 (911) 930-27-19"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "spa@autodoc.ru"
+    },
+    {
+      "id": 425,
+      "nameForMap": "АВТОДОК - Калининский",
+      "address": {
+        "regionName": "Санкт-Петербург и Ленинградская область",
+        "address": "г. Санкт-Петербург,  Светлановский проспект, д. 109, корп. 1 (м. Гражданский проспект)",
+        "mapLatitude": 60.040336,
+        "mapLongitude": 30.400056
+      },
+      "phones": [
+        "+7 (812) 640-66-00",
+        " +7 (931) 230-92-05"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "spk@autodoc.ru"
+    },
+    {
+      "id": 516,
+      "nameForMap": "Автодок - Санкт-Петербург",
+      "address": {
+        "regionName": "Санкт-Петербург и Ленинградская область",
+        "address": "г. Санкт-Петербург, Ленинский проспект, д.92, корп.1 (м.Ленинский проспект)",
+        "mapLatitude": 59.854822,
+        "mapLongitude": 30.21208
+      },
+      "phones": [
+        "+7 (812) 640-66-00",
+        " +7 (963) 343-36-69 "
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "spl@autodoc.ru"
+    },
+    {
+      "id": 423,
+      "nameForMap": "Автодок - Центральный",
+      "address": {
+        "regionName": "Санкт-Петербург и Ленинградская область",
+        "address": "г. Санкт-Петербург, Лиговский проспект, д. 235 (м. Обводный канал)",
+        "mapLatitude": 59.909229,
+        "mapLongitude": 30.346231
+      },
+      "phones": [
+        "+7 (812) 640-66-00",
+        " +7 (921) 570-20-70"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "spc@autodoc.ru"
+    },
+    {
+      "id": 421,
+      "nameForMap": "АВТОДОК - Невский",
+      "address": {
+        "regionName": "Санкт-Петербург и Ленинградская область",
+        "address": "г. Санкт-Петербург, ул. Тельмана, д.49 (м. Улица Дыбенко)",
+        "mapLatitude": 59.891952,
+        "mapLongitude": 30.488511
+      },
+      "phones": [
+        "+7 (812) 640-66-00",
+        " +7 (921) 442-63-65"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "neva@autodoc.ru"
+    },
+    {
+      "id": 422,
+      "nameForMap": "АВТОДОК - Московский",
+      "address": {
+        "regionName": "Санкт-Петербург и Ленинградская область",
+        "address": "г. Санкт-Петербург, ул.Типанова, д. 18 (м. Московская)",
+        "mapLatitude": 59.851913,
+        "mapLongitude": 30.335004
+      },
+      "phones": [
+        "+7 (812) 640-66-00",
+        " +7 (911) 262-10-28"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "spb@autodoc.ru"
+    },
+    {
+      "id": 503,
+      "nameForMap": "Автодок - Абакан",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Абакан, ул. Советская, д.48",
+        "mapLatitude": 53.71945,
+        "mapLongitude": 91.426633
+      },
+      "phones": [
+        "+7 (390) 220-21-15",
+        " +7 (961) 740-38-40"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "xk@autodoc.ru"
+    },
+    {
+      "id": 451,
+      "nameForMap": "АВТОДОК - Адлер",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Адлер, ул. Энергетиков, д.11",
+        "mapLatitude": 43.422692,
+        "mapLongitude": 39.938778
+      },
+      "phones": [
+        "+7 (862) 225-87-04 доб.2",
+        " +7 (938) 439-45-15 "
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "dlr@autodoc.ru"
+    },
+    {
+      "id": 26,
+      "nameForMap": "Автодок - Архангельск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Архангельск, проспект Обводный канал, д.9, к.1, стр.4",
+        "mapLatitude": 64.536628,
+        "mapLongitude": 40.555863
+      },
+      "phones": [
+        "+7 (8182) 68-03-00",
+        " +7 (8182) 46-04-68"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "arkhangelsk@autodoc.ru"
+    },
+    {
+      "id": 462,
+      "nameForMap": "Автодок - Астрахань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Астрахань,  ул. Рыбинская, д. 19В",
+        "mapLatitude": 46.362989,
+        "mapLongitude": 48.094976
+      },
+      "phones": [
+        "+7 (8512) 66-90-91  доб.2",
+        "  +7 (967) 334-69-76"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ast@autodoc.ru"
+    },
+    {
+      "id": 394,
+      "nameForMap": "Автодок - Астрахань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Астрахань, ул. Адмиралтейская, д. 4А",
+        "mapLatitude": 46.345365,
+        "mapLongitude": 48.024468
+      },
+      "phones": [
+        "+7 (8512) 66-90-91  доб.1",
+        "  +7 (937) 828-34-78"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "delta@autodoc.ru"
+    },
+    {
+      "id": 498,
+      "nameForMap": "Автодок - Барнаул",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Барнаул, ул. Малахова, д.122    ",
+        "mapLatitude": 53.34316,
+        "mapLongitude": 83.692998
+      },
+      "phones": [
+        "+7 (385) 276-60-01",
+        " +7 (961) 238-80-87"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "bims@autodoc.ru"
+    },
+    {
+      "id": 187,
+      "nameForMap": "Автодок - Белгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Белгород, проспект Богдана Хмельницкого, д.92",
+        "mapLatitude": 50.615674,
+        "mapLongitude": 36.578311
+      },
+      "phones": [
+        "+7 (4722) 500-697",
+        " +7 (4722) 500-521",
+        " +7 (4722) 34-93-23"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "belgorod@autodoc.ru"
+    },
+    {
+      "id": 7,
+      "nameForMap": "Автодок - Белгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Белгород, ул. Архиерейская, д.5А",
+        "mapLatitude": 50.568274,
+        "mapLongitude": 36.558166
+      },
+      "phones": [
+        "+7 (4722) 500-210",
+        " +7 (4722) 500-581"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "belgorod@autodoc.ru"
+    },
+    {
+      "id": 490,
+      "nameForMap": "Автодок - Белгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Белгород, ул.Макаренко, д.4 Б",
+        "mapLatitude": 50.582616,
+        "mapLongitude": 36.65832
+      },
+      "phones": [
+        "+7 (962) 303-75-65",
+        " +7 (472) 250-02-10"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "belgorod@autodoc.ru"
+    },
+    {
+      "id": 471,
+      "nameForMap": "Автодок - Березники",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Березники, ул. Мира, д.42",
+        "mapLatitude": 59.40189,
+        "mapLongitude": 56.84176
+      },
+      "phones": [
+        "+7 (342) 206-09-73 ",
+        "  +7 (967) 901-59-96"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "brz@autodoc.ru"
+    },
+    {
+      "id": 310,
+      "nameForMap": "Автодок - Благовещенск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Благовещенск, ул. Октябрьская, д.111",
+        "mapLatitude": 50.26975,
+        "mapLongitude": 127.55256
+      },
+      "phones": [
+        "+7 (4162) 44-01-01",
+        " +7 (4162) 21-12-11"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "blgv@autodoc.ru"
+    },
+    {
+      "id": 494,
+      "nameForMap": "Автодок - Брянск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Брянск, Московский проспект, д.1",
+        "mapLatitude": 53.218729,
+        "mapLongitude": 34.394624
+      },
+      "phones": [
+        "+7 (4832) 30-18-50",
+        " +7 (953) 293-00-08"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "bryansk@autodoc.ru"
+    },
+    {
+      "id": 493,
+      "nameForMap": "Автодок - Брянск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Брянск, пер. Куйбышева, д.57А",
+        "mapLatitude": 53.307181,
+        "mapLongitude": 34.285586
+      },
+      "phones": [
+        "+7 (4832) 57-89-35",
+        " +7 (910) 332-06-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "bryansk@autodoc.ru"
+    },
+    {
+      "id": 125,
+      "nameForMap": "Автодок - Брянск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Брянск, пр-т Станке Димитрова, д.42",
+        "mapLatitude": 53.243432,
+        "mapLongitude": 34.330721
+      },
+      "phones": [
+        "+7 (4832) 62-09-02",
+        " +7 (953) 293-00-09"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "bryansk@autodoc.ru"
+    },
+    {
+      "id": 518,
+      "nameForMap": "Автодок - Брянск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Брянск, ул.Чернышевского, д.64",
+        "mapLatitude": 53.256226,
+        "mapLongitude": 34.450038
+      },
+      "phones": [
+        "+7 (4832) 27-70-27",
+        " +7 (905) 174-44-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "Bryansk1@autodoc.ru"
+    },
+    {
+      "id": 196,
+      "nameForMap": "Автодок - Бузулук",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Бузулук, ул. Фрунзе, д.8",
+        "mapLatitude": 52.775307,
+        "mapLongitude": 52.256366
+      },
+      "phones": [
+        "+7 (922) 530-99-44"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "bzl@autodoc.ru"
+    },
+    {
+      "id": 427,
+      "nameForMap": "Автодок - Великий Новгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Великий Новгород, ул.Псковская, д.25",
+        "mapLatitude": 58.50967,
+        "mapLongitude": 31.236015
+      },
+      "phones": [
+        "+7 (8162) 502-5-95",
+        " +7 (903) 148-17-38"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vng@autodoc.ru"
+    },
+    {
+      "id": 281,
+      "nameForMap": "АВТОДОК - Пышма",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Верхняя Пышма, Успенский проспект, д.113",
+        "mapLatitude": 56.977034,
+        "mapLongitude": 60.559462
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg14@autodoc.ru"
+    },
+    {
+      "id": 112,
+      "nameForMap": "Автодок - Владимир",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Владимир, ул. Горького, д.27",
+        "mapLatitude": 56.137594,
+        "mapLongitude": 40.400899
+      },
+      "phones": [
+        "+7 (4922) 600-885",
+        " +7 (904) 036-44-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vladimir@autodoc.ru"
+    },
+    {
+      "id": 126,
+      "nameForMap": "Автодок - Волгоград",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Волгоград, ул. Рокоссовского, д.141",
+        "mapLatitude": 48.731663,
+        "mapLongitude": 44.525865
+      },
+      "phones": [
+        "+7 (8442) 50-12-24",
+        " +7 (8442) 90-36-36"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "volgograd@autodoc.ru"
+    },
+    {
+      "id": 243,
+      "nameForMap": "Автодок - Волгоград",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Волгоград, ул. Фадеева, д.29",
+        "mapLatitude": 48.516929,
+        "mapLongitude": 44.557548
+      },
+      "phones": [
+        "+7 (8442) 50-05-23",
+        " +7 (8442) 50-04-89"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "avg@autodoc.ru"
+    },
+    {
+      "id": 155,
+      "nameForMap": "Автодок - Волжский",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Волжский, п. Рабочий, ул. Молодогвардейцев, д.8",
+        "mapLatitude": 48.808495,
+        "mapLongitude": 44.767902
+      },
+      "phones": [
+        "+7 (8442) 500-518",
+        " +7 (8443) 27-88-28"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "volgsk@autodoc.ru, volgograd@autodoc.ru"
+    },
+    {
+      "id": 100,
+      "nameForMap": "Автодок - Вологда",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Вологда, ул. Ленинградская, д.14",
+        "mapLatitude": 59.223619,
+        "mapLongitude": 39.875876
+      },
+      "phones": [
+        "+7 (8172) 50-28-38"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vologda@autodoc.ru"
+    },
+    {
+      "id": 195,
+      "nameForMap": "Автодок - Вологда",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Вологда, ул. Чернышевского, д.97",
+        "mapLatitude": 59.237466,
+        "mapLongitude": 39.90277
+      },
+      "phones": [
+        "+7 (8172) 54-77-40"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vologda@autodoc.ru"
+    },
+    {
+      "id": 406,
+      "nameForMap": "Автодок - Воронеж",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Воронеж, жилой массив Олимпийский, д.4",
+        "mapLatitude": 51.713312,
+        "mapLongitude": 39.195224
+      },
+      "phones": [
+        "+7 (473) 202-30-51 доб.2",
+        " +7 (929) 010-18-52"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vrz@autodoc.ru"
+    },
+    {
+      "id": 405,
+      "nameForMap": "Автодок - Воронеж",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Воронеж, Ленинский проспект, д. 172",
+        "mapLatitude": 51.692922,
+        "mapLongitude": 39.269701
+      },
+      "phones": [
+        "+7 (473) 202-30-51 доб.3",
+        " +7 (930) 416-69-21"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vrl@autodoc.ru"
+    },
+    {
+      "id": 404,
+      "nameForMap": "Автодок - Воронеж",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Воронеж, ул. Лидии Рябцевой, д.42, корп.1",
+        "mapLatitude": 51.687353,
+        "mapLongitude": 39.191223
+      },
+      "phones": [
+        "+7 (473) 202-30-51 доб.1",
+        " +7 (920) 421-74-85"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "vrh@autodoc.ru"
+    },
+    {
+      "id": 443,
+      "nameForMap": "Автодок - Дзержинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Дзержинск,  ул. Галкина, д.1, корп.2",
+        "mapLatitude": 56.23013,
+        "mapLongitude": 43.411011
+      },
+      "phones": [
+        "+7 (953) 573-63-33",
+        " +7 (8313) 350-500"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "drz@autodoc.ru"
+    },
+    {
+      "id": 309,
+      "nameForMap": "Автодок - Екатеринбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Екатеринбург, ул. Краснолесья, д.49",
+        "mapLatitude": 56.784935,
+        "mapLongitude": 60.535174
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg22@autodoc.ru"
+    },
+    {
+      "id": 220,
+      "nameForMap": "Автодок - Екатеринбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Екатеринбург, ул. Папанина, д.9",
+        "mapLatitude": 56.844842,
+        "mapLongitude": 60.578855
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg2@autodoc.ru"
+    },
+    {
+      "id": 133,
+      "nameForMap": "Автодок - Екатеринбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Екатеринбург, ул. Первомайская, д.77",
+        "mapLatitude": 56.845505,
+        "mapLongitude": 60.642246
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg2@autodoc.ru"
+    },
+    {
+      "id": 234,
+      "nameForMap": "Автодок - Екатеринбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Екатеринбург, ул. Победы, д.26",
+        "mapLatitude": 56.89766,
+        "mapLongitude": 60.603718
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg2@autodoc.ru"
+    },
+    {
+      "id": 258,
+      "nameForMap": "Автодок - Екатеринбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Екатеринбург, ул. Щербакова, д.77, корп.1",
+        "mapLatitude": 56.777183,
+        "mapLongitude": 60.662156
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg7@autodoc.ru"
+    },
+    {
+      "id": 342,
+      "nameForMap": "Автодок - Екатеринбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Екатеринбург, ул. Щорса, д.58",
+        "mapLatitude": 56.809782,
+        "mapLongitude": 60.619195
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ekaterinburg17@autodoc.ru"
+    },
+    {
+      "id": 335,
+      "nameForMap": "Автодок - Елец",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Елец, ул.Коммунаров, д.111",
+        "mapLatitude": 52.627124,
+        "mapLongitude": 38.471631
+      },
+      "phones": [
+        "+7 (47467) 4-57-23",
+        " +7 (915) 850-14-14"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "elec@autodoc.ru"
+    },
+    {
+      "id": 458,
+      "nameForMap": "Автодок - Заполярный",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Заполярный, ул.Бабикова, д.10",
+        "mapLatitude": 69.429205,
+        "mapLongitude": 30.826656
+      },
+      "phones": [
+        "+7 (921) 510-60-64",
+        "  +7 (81554)60-965"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "zpl@autodoc.ru"
+    },
+    {
+      "id": 468,
+      "nameForMap": "Автодок - Иваново",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Иваново, ул. Кузнецова, д.8",
+        "mapLatitude": 56.997832,
+        "mapLongitude": 40.967404
+      },
+      "phones": [
+        "+7 (4932) 26-34-72"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ivn@autodoc.ru"
+    },
+    {
+      "id": 329,
+      "nameForMap": "Автодок - Ижевск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ижевск, ул. Кирова, д.121",
+        "mapLatitude": 56.860772,
+        "mapLongitude": 53.213244
+      },
+      "phones": [
+        "+7 (3412) 56-39-59",
+        " +7 (922) 523-80-83"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "izhevsk11@autodoc.ru"
+    },
+    {
+      "id": 24,
+      "nameForMap": "Автодок - Иркутск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Иркутск, ул. Байкальская, д. 244/6",
+        "mapLatitude": 52.25529,
+        "mapLongitude": 104.331
+      },
+      "phones": [
+        "+7 (3952) 50-07-04"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "irkutsk@autodoc.ru"
+    },
+    {
+      "id": 396,
+      "nameForMap": "Автодок - Йошкар-Ола",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Йошкар-Ола, ул. Первомайская, д.114",
+        "mapLatitude": 56.638622,
+        "mapLongitude": 47.887111
+      },
+      "phones": [
+        "+7 (8362) 30-43-06 ",
+        " +7 (927) 884-40-21"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "iola@autodoc.ru"
+    },
+    {
+      "id": 203,
+      "nameForMap": "Автодок - Казань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Казань, проспект Победы, д.206",
+        "mapLatitude": 55.802896,
+        "mapLongitude": 49.209678
+      },
+      "phones": [
+        "+7 (843) 203-96-96"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kz@autodoc.ru"
+    },
+    {
+      "id": 249,
+      "nameForMap": "Автодок - Казань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Казань, ул. Волгоградская, д.12",
+        "mapLatitude": 55.830275,
+        "mapLongitude": 49.086377
+      },
+      "phones": [
+        "+7 (843) 203-96-96"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kz1@autodoc.ru"
+    },
+    {
+      "id": 357,
+      "nameForMap": "Автодок - Казань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Казань, ул. Павлюхина, д.114",
+        "mapLatitude": 55.766447,
+        "mapLongitude": 49.147335
+      },
+      "phones": [
+        "+7 (843) 203-96-96"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kzp@autodoc.ru"
+    },
+    {
+      "id": 452,
+      "nameForMap": "Автодок - Калининград",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Калининград, ул. Инженерная, д.3",
+        "mapLatitude": 54.683008,
+        "mapLongitude": 20.490132
+      },
+      "phones": [
+        "+7 (4012) 99-49-68"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kng@autodoc.ru"
+    },
+    {
+      "id": 330,
+      "nameForMap": "Автодок - Калининград",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Калининград, ул.Нарвская, д.54А",
+        "mapLatitude": 54.734251,
+        "mapLongitude": 20.498654
+      },
+      "phones": [
+        "+7(4012) 99-49-69"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kld@autodoc.ru"
+    },
+    {
+      "id": 488,
+      "nameForMap": "Автодок - Калуга",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Калуга, ул. Маршала Жукова, д. 13",
+        "mapLatitude": 54.514232,
+        "mapLongitude": 36.280883
+      },
+      "phones": [
+        "+7 (4842) 90-11-85",
+        " +7 (962) 372-81-23"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kgl@autodoc.ru"
+    },
+    {
+      "id": 343,
+      "nameForMap": "Автодок - Каменск-Уральский",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Каменск-Уральский, ул. Мусоргского, д.2",
+        "mapLatitude": 56.418558,
+        "mapLongitude": 61.920308
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "k-ural@autodoc.ru"
+    },
+    {
+      "id": 499,
+      "nameForMap": "Автодок - Кемерово",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Кемерово, ул. Красноармейская, д. 122",
+        "mapLatitude": 55.351478,
+        "mapLongitude": 86.073203
+      },
+      "phones": [
+        "+7 (384) 290-10-12",
+        " +7 (903) 178-08-04"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kems@autodoc.ru"
+    },
+    {
+      "id": 253,
+      "nameForMap": "Автодок - Киров",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Киров, ул. Карла Маркса, д.124",
+        "mapLatitude": 58.590436,
+        "mapLongitude": 49.66973
+      },
+      "phones": [
+        "+7 (8332) 211-001"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kirov@autodoc.ru"
+    },
+    {
+      "id": 334,
+      "nameForMap": "Автодок - Ковров",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ковров, ул. Строителей, д.12",
+        "mapLatitude": 56.338122,
+        "mapLongitude": 41.299536
+      },
+      "phones": [
+        "+7 (4922) 55-23-42",
+        " +7 (930) 220-05-50"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kovrov@autodoc.ru"
+    },
+    {
+      "id": 477,
+      "nameForMap": "Автодок - Кострома",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Кострома, микрорайон Паново, д. 11Б",
+        "mapLatitude": 57.737476,
+        "mapLongitude": 40.911203
+      },
+      "phones": [
+        "+7 (4942) 499-105"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kostroma@autodoc.ru"
+    },
+    {
+      "id": 178,
+      "nameForMap": "Автодок - Кострома",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Кострома, ул. 2-я Волжская, д.2Б",
+        "mapLatitude": 57.752207,
+        "mapLongitude": 40.979463
+      },
+      "phones": [
+        "+7 (4942) 499-203"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kostroma@autodoc.ru"
+    },
+    {
+      "id": 284,
+      "nameForMap": "АВТОДОК-Котлас",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Котлас, проспект Мира, д.43",
+        "mapLatitude": 61.247744,
+        "mapLongitude": 46.646557
+      },
+      "phones": [
+        "+7 (950) 962-43-33"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kotlas@autodoc.ru"
+    },
+    {
+      "id": 496,
+      "nameForMap": "Автодок - Краснодар",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Краснодар,  ул. Константина Симонова, д. 57/1",
+        "mapLatitude": 45.10295,
+        "mapLongitude": 39.012569
+      },
+      "phones": [
+        "+7 (861) 203-36-49 доб.1",
+        "  +7 (967) 303-98-30"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "krsn@autodoc.ru"
+    },
+    {
+      "id": 414,
+      "nameForMap": "Автодок - Краснодар",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Краснодар, ул. имени Тургенева, д.91",
+        "mapLatitude": 45.049862,
+        "mapLongitude": 38.958523
+      },
+      "phones": [
+        "+7 (861) 203-36-49 доб. 2",
+        " +7 (938) 503-50-40"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "krsk@autodoc.ru"
+    },
+    {
+      "id": 413,
+      "nameForMap": "Автодок - Краснодар",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Краснодар, ул. Ставропольская, д. 157",
+        "mapLatitude": 45.018217,
+        "mapLongitude": 39.035453
+      },
+      "phones": [
+        "+7 (861) 203-36-49 доб.3",
+        " +7 (918) 145-13-48"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "KRSD@autodoc.ru"
+    },
+    {
+      "id": 345,
+      "nameForMap": "Автодок - Краснотурьинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Краснотурьинск, ул. Ленина, д.22",
+        "mapLatitude": 59.763382,
+        "mapLongitude": 60.185635
+      },
+      "phones": [
+        "+7 (992) 004-31-63"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "krasnotur@autodoc.ru"
+    },
+    {
+      "id": 500,
+      "nameForMap": "Автодок - Красноярск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Красноярск, ул. Партизана Железняка, д. 50",
+        "mapLatitude": 56.04109,
+        "mapLongitude": 92.937825
+      },
+      "phones": [
+        "+7 (391) 202-96-00",
+        " +7 (960) 766-75-94"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "krs@autodoc.ru"
+    },
+    {
+      "id": 118,
+      "nameForMap": "Автодок - Курск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Курск, ул. Красный Октябрь, д.7",
+        "mapLatitude": 51.754257,
+        "mapLongitude": 36.185352
+      },
+      "phones": [
+        "+7 (4712) 30-52-02",
+        " +7 (919) 174-66-94"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kursk@autodoc.ru"
+    },
+    {
+      "id": 448,
+      "nameForMap": "Автодок - Курск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Курск, ул. Энергетиков, д.2",
+        "mapLatitude": 51.665318,
+        "mapLongitude": 36.137367
+      },
+      "phones": [
+        "+7 (4712) 31-25-14",
+        " +7 (4712) 31-26-14"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "kursk@autodoc.ru"
+    },
+    {
+      "id": 241,
+      "nameForMap": "Автодок - Липецк",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Липецк, проспект Мира, д.14",
+        "mapLatitude": 52.585504,
+        "mapLongitude": 39.617117
+      },
+      "phones": [
+        "+7 (4742) 25-10-10",
+        " +7 (904) 282-47-74"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "Lipetsk5@autodoc.ru"
+    },
+    {
+      "id": 154,
+      "nameForMap": "Автодок - Липецк",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Липецк, ул. Гагарина д.23",
+        "mapLatitude": 52.617416,
+        "mapLongitude": 39.603352
+      },
+      "phones": [
+        "+7 (4742) 27-28-97",
+        " +7 (905) 685-22-88"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "lipetsk@autodoc.ru"
+    },
+    {
+      "id": 291,
+      "nameForMap": "Автодок - Липецк",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Липецк, ул. Катукова, д. 27 А",
+        "mapLatitude": 52.586565,
+        "mapLongitude": 39.519655
+      },
+      "phones": [
+        "+7 (4742) 42-73-60",
+        " +7 (980) 251-00-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "Lipetsk6@autodoc.ru"
+    },
+    {
+      "id": 460,
+      "nameForMap": "Автодок - Магнитогорск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Магнитогорск,  проспект Ленина, д.127",
+        "mapLatitude": 53.372842,
+        "mapLongitude": 58.991179
+      },
+      "phones": [
+        "+7 (351) 951-00-54 ",
+        "  +7 (922) 711-47-72"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "mgn@autodoc.ru"
+    },
+    {
+      "id": 186,
+      "nameForMap": "Автодок - Махачкала",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Махачкала, проспект Петра I, д. 27",
+        "mapLatitude": 42.967965,
+        "mapLongitude": 47.54039
+      },
+      "phones": [
+        "+7 (988) 023-00-00",
+        " +7 (910) 410-00-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "mhl@autodoc.ru"
+    },
+    {
+      "id": 339,
+      "nameForMap": "Автодок - Мончегорск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Мончегорск, ул. Ленинградская Набережная, д.30 корп.1",
+        "mapLatitude": 67.945606,
+        "mapLongitude": 32.965766
+      },
+      "phones": [
+        "+7 (921) 036-60-60",
+        " +7 (921) 046-60-60"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "mchg@autodoc.ru"
+    },
+    {
+      "id": 40,
+      "nameForMap": "Автодок - Мурманск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Мурманск, ул. Свердлова, д.40, корп.4",
+        "mapLatitude": 69.001717,
+        "mapLongitude": 33.109525
+      },
+      "phones": [
+        "+7 (921) 510-65-01",
+        " +7 (921) 510-65-04"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "murmansk@autodoc.ru"
+    },
+    {
+      "id": 239,
+      "nameForMap": "Автодок - Набережные Челны",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Набережные Челны, Новый город, 3/01 (проспект Мира д.52/16)",
+        "mapLatitude": 55.741953,
+        "mapLongitude": 52.410476
+      },
+      "phones": [
+        "+7 (8552) 91-22-91"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ncl@autodoc.ru"
+    },
+    {
+      "id": 319,
+      "nameForMap": "АВТОДОК - Надым",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Надым, 5-й проезд, литер \"А\"",
+        "mapLatitude": 65.53635,
+        "mapLongitude": 72.53269
+      },
+      "phones": [
+        "+7 (3499) 57-44-77",
+        " +7 (908) 857-44-77",
+        " 8-800-300-04-77 (звонок бесплатный)"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nadym@autodoc.ru"
+    },
+    {
+      "id": 308,
+      "nameForMap": "Автодок - Нижний Новгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Нижний Новгород, Автозаводский район, Южное шоссе, д.41",
+        "mapLatitude": 56.229201,
+        "mapLongitude": 43.86858
+      },
+      "phones": [
+        "+7 (930) 290-07-70",
+        " +7 (831) 282-07-70 доб.3"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ns@autodoc.ru"
+    },
+    {
+      "id": 179,
+      "nameForMap": "Автодок - Нижний Новгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Нижний Новгород, Канавинский район, ул. Бетанкура, д.2",
+        "mapLatitude": 56.3332,
+        "mapLongitude": 43.955196
+      },
+      "phones": [
+        "+7 (930)-815-80-90",
+        " +7 (831) 282-07-70 доб.1"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "Nnovgorod@autodoc.ru"
+    },
+    {
+      "id": 255,
+      "nameForMap": "Автодок - Нижний Новгород",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Нижний Новгород, Советский район, ул. Бекетова, д.51",
+        "mapLatitude": 56.29368,
+        "mapLongitude": 44.019513
+      },
+      "phones": [
+        "+7 (930) 815-50-95",
+        " +7 (831) 282-07-70 доб.2"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nv@autodoc.ru"
+    },
+    {
+      "id": 402,
+      "nameForMap": "Автодок - Нижний Тагил",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Нижний Тагил, ул. Космонавтов, д.31",
+        "mapLatitude": 57.925738,
+        "mapLongitude": 59.943148
+      },
+      "phones": [
+        "+7 (3435) 23-03-30 доб.1",
+        " +7 (922) 022-27-12"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nita@autodoc.ru"
+    },
+    {
+      "id": 403,
+      "nameForMap": "Автодок - Нижний Тагил",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Нижний Тагил, ул. Юности, стр.4Б",
+        "mapLatitude": 57.920223,
+        "mapLongitude": 60.091713
+      },
+      "phones": [
+        "+7 (3435) 23-03-30 доб. 2",
+        " +7 (932) 123-25-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nitb@autodoc.ru"
+    },
+    {
+      "id": 408,
+      "nameForMap": "Автодок - Новодвинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Новодвинск, ул. Декабристов, д.11",
+        "mapLatitude": 64.42415,
+        "mapLongitude": 40.807695
+      },
+      "phones": [
+        "+7 (960) 009-88-44"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nov@autodoc.ru"
+    },
+    {
+      "id": 502,
+      "nameForMap": "Автодок - Новокузнецк",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Новокузнецк, Пионерский проспект, д.28",
+        "mapLatitude": 53.760591,
+        "mapLongitude": 87.121509
+      },
+      "phones": [
+        "+7 (384) 320-02-85",
+        " +7 (906) 985-21-83"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nk@autodoc.ru"
+    },
+    {
+      "id": 371,
+      "nameForMap": "Автодок - Новомосковск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Новомосковск,  ул. Комсомольская, д.7",
+        "mapLatitude": 54.011317,
+        "mapLongitude": 38.280167
+      },
+      "phones": [
+        "+7 (4872) 71-83-09",
+        "  +7 (920) 763-57-58"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nvm@autodoc.ru"
+    },
+    {
+      "id": 497,
+      "nameForMap": "Автодок - Новосибирск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Новосибирск,  ул. Орджоникидзе, д.43",
+        "mapLatitude": 55.03214,
+        "mapLongitude": 82.93086
+      },
+      "phones": [
+        "+7 (383) 285-00-22 доб.1 ",
+        " +7 (960) 785-48-87"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nrdx@autodoc.ru"
+    },
+    {
+      "id": 510,
+      "nameForMap": "Автодок - Новосибирск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Новосибирск, ул. Мира, д.54",
+        "mapLatitude": 54.962996,
+        "mapLongitude": 82.922892
+      },
+      "phones": [
+        "+7 (383) 285-00-22  доб. 2   +7 (960) 799-19-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nrmx@autodoc.ru"
+    },
+    {
+      "id": 88,
+      "nameForMap": "Автодок - Новый Уренгой",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Новый Уренгой, ул. Звездная, д.15",
+        "mapLatitude": 66.086355,
+        "mapLongitude": 76.624527
+      },
+      "phones": [
+        "+7 (3494) 26-02-92",
+        " +7 (800) 300-02-92 (бесплатный вызов)"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "urengoi@autodoc.ru"
+    },
+    {
+      "id": 4,
+      "nameForMap": "Автодок - Ноябрьск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ноябрьск, ул. 60 лет СССР, д. 56Б",
+        "mapLatitude": 63.196275,
+        "mapLongitude": 75.430133
+      },
+      "phones": [
+        "+7 (3496) 44-05-44",
+        " 8-800-300-01-89"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "noyabrsk@autodoc.ru"
+    },
+    {
+      "id": 476,
+      "nameForMap": "Автодок - Няндома",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Няндома, ул.Генерала Ковырзина, д.2Ж",
+        "mapLatitude": 61.671428,
+        "mapLongitude": 40.200375
+      },
+      "phones": [
+        "+7 (906) 284-11-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "nyndoma@autodoc.ru"
+    },
+    {
+      "id": 280,
+      "nameForMap": "Автодок - Обнинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Обнинск, ул. Курчатова, д.41",
+        "mapLatitude": 55.116188,
+        "mapLongitude": 36.622659
+      },
+      "phones": [
+        "+7 (484) 399-73-60",
+        " +7 (930) 752-42-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "obninsk@autodoc.ru"
+    },
+    {
+      "id": 242,
+      "nameForMap": "Автодок - Омск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Омск, проспект Комарова, д.9/1",
+        "mapLatitude": 54.991524,
+        "mapLongitude": 73.291431
+      },
+      "phones": [
+        "+7 (3812) 34-63-63"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "omsk@autodoc.ru"
+    },
+    {
+      "id": 294,
+      "nameForMap": "Автодок - Омск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Омск, ул. 10 лет Октября, д.43",
+        "mapLatitude": 54.985329,
+        "mapLongitude": 73.394502
+      },
+      "phones": [
+        "+7 (950) 950-73-73",
+        " +7 (950) 950-83-83"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "omsk7@autodoc.ru"
+    },
+    {
+      "id": 194,
+      "nameForMap": "Автодок - Орел",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Орел, ул. 60-летия Октября, д.14",
+        "mapLatitude": 52.979853,
+        "mapLongitude": 36.075262
+      },
+      "phones": [
+        "+7 (4862) 49-08-06",
+        " +7 (4862) 49-04-06"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "orel@autodoc.ru"
+    },
+    {
+      "id": 246,
+      "nameForMap": "Автодок - Оренбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Оренбург, ул. Автомобилистов, д.2/2",
+        "mapLatitude": 51.832276,
+        "mapLongitude": 55.169326
+      },
+      "phones": [
+        "+7 (961) 94-28-000   +7 (961) 94-29-000"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "orn@autodoc.ru"
+    },
+    {
+      "id": 382,
+      "nameForMap": "Автодок - Оренбург",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Оренбург, ул. Пролетарская, д.43",
+        "mapLatitude": 51.769463,
+        "mapLongitude": 55.098602
+      },
+      "phones": [
+        "+7 (3532) 60-72-06",
+        " +7 (922) 886-72-06",
+        " +7 (3532) 60-43-06",
+        " +7 (922) 886-43-06"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "orn@autodoc.ru"
+    },
+    {
+      "id": 415,
+      "nameForMap": "Автодок - Пенза",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Пенза,  ул. Калинина, д. 4",
+        "mapLatitude": 53.180689,
+        "mapLongitude": 45.015379
+      },
+      "phones": [
+        "+7 (8412) 99-98-89  доб.2",
+        "  +7 (937) 415-33-38"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ppr@autodoc.ru"
+    },
+    {
+      "id": 395,
+      "nameForMap": "Автодок - Пенза",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Пенза, ул. Карпинского, д.37",
+        "mapLatitude": 53.210354,
+        "mapLongitude": 44.979847
+      },
+      "phones": [
+        "+7 (8412) 999-889 доб.1",
+        "  +7 (960) 318-39-79"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "penza@autodoc.ru"
+    },
+    {
+      "id": 409,
+      "nameForMap": "Автодок - Первоуральск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Первоуральск, ул. Чкалова, д.43",
+        "mapLatitude": 56.902049,
+        "mapLongitude": 59.947976
+      },
+      "phones": [
+        "+7 (343) 236-60-00",
+        " +7 (343) 207-66-66"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "peur@autodoc.ru"
+    },
+    {
+      "id": 444,
+      "nameForMap": "Автодок - Пермь",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Пермь,  ул. Механошина, д.17/1",
+        "mapLatitude": 58.000902,
+        "mapLongitude": 56.235675
+      },
+      "phones": [
+        "+7 (342) 211-00-11 доб.2",
+        "  +7 (922) 354-64-64"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "perm20@autodoc.ru"
+    },
+    {
+      "id": 412,
+      "nameForMap": "Автодок - Пермь",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Пермь, шоссе Космонавтов, д.193",
+        "mapLatitude": 57.974992,
+        "mapLongitude": 56.16269
+      },
+      "phones": [
+        "+7 (342) 211-00-11 доб.1",
+        " + 7 (922) 354-89-89"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "perm5@autodoc.ru"
+    },
+    {
+      "id": 467,
+      "nameForMap": "Автодок - Петрозаводск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Петрозаводск, ул. Красноармейская, д.24",
+        "mapLatitude": 61.782831,
+        "mapLongitude": 34.350051
+      },
+      "phones": [
+        "+7 (8142) 59-99-80",
+        " +7 (909) 572-46-76"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ptz@autodoc.ru"
+    },
+    {
+      "id": 301,
+      "nameForMap": "Автодок - Плесецк",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Плесецк, 1-й км трассы Плесецк- Архангельск",
+        "mapLatitude": 62.735077,
+        "mapLongitude": 40.294408
+      },
+      "phones": [
+        "+7 (909) 552-11-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ples@autodoc.ru"
+    },
+    {
+      "id": 132,
+      "nameForMap": "Автодок - Пятигорск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Пятигорск, 502 км. федеральной трассы «Кавказ».",
+        "mapLatitude": 44.025618,
+        "mapLongitude": 43.125977
+      },
+      "phones": [
+        "+7 (988) 741-10-45",
+        " +7 (961) 458-80-24",
+        " +7 (961) 458-80-25"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "pyatigorsk@autodoc.ru"
+    },
+    {
+      "id": 399,
+      "nameForMap": "Автодок - Ростов-на-Дону",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ростов-на-Дону, ул. Добровольского, д.2/1",
+        "mapLatitude": 47.283154,
+        "mapLongitude": 39.70837
+      },
+      "phones": [
+        "+7 (863) 303-09-58 доб. 1",
+        " +7 (960) 453-12-56"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "rad@autodoc.ru"
+    },
+    {
+      "id": 400,
+      "nameForMap": "Автодок - Ростов-на-Дону",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ростов-на-Дону, ул.Зорге, д.11",
+        "mapLatitude": 47.219213,
+        "mapLongitude": 39.631991
+      },
+      "phones": [
+        "+7 (863) 303-09-58 доб.2",
+        " +7 (951) 843-75-03"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "rdn@autodoc.ru"
+    },
+    {
+      "id": 146,
+      "nameForMap": "Автодок - Рыбинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Рыбинск, Волжская набережная, д.203",
+        "mapLatitude": 58.058659,
+        "mapLongitude": 38.824348
+      },
+      "phones": [
+        "+7 (980) 706-27-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "rybinsk@autodoc.ru"
+    },
+    {
+      "id": 321,
+      "nameForMap": "Автодок - Рязань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Рязань, ул. Зубковой, д.10, корп.В",
+        "mapLatitude": 54.607012,
+        "mapLongitude": 39.788823
+      },
+      "phones": [
+        "+7 (4912) 460-960 доб.3",
+        " +7 (910) 625-49-99"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ryazan11@autodoc.ru"
+    },
+    {
+      "id": 244,
+      "nameForMap": "Автодок - Рязань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Рязань, ул. Интернациональная, д.13 А",
+        "mapLatitude": 54.669963,
+        "mapLongitude": 39.659869
+      },
+      "phones": [
+        "+7 (910) 633-49-99",
+        " +7 (4912) 460-960"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ryazan6@autodoc.ru"
+    },
+    {
+      "id": 33,
+      "nameForMap": "Автодок - Рязань",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Рязань, ул. Павлова, д.3",
+        "mapLatitude": 54.627418,
+        "mapLongitude": 39.727122
+      },
+      "phones": [
+        "+7 (910) 569-49-99 ",
+        "+7 (4912) 460-960"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ryazan@autodoc.ru"
+    },
+    {
+      "id": 370,
+      "nameForMap": "Автодок - Самара",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Самара, проспект Кирова, д. 261",
+        "mapLatitude": 53.24144,
+        "mapLongitude": 50.236093
+      },
+      "phones": [
+        "+7 (846) 201-22-28",
+        " +7 (937) 989-22-02"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "sma@autodoc.ru"
+    },
+    {
+      "id": 105,
+      "nameForMap": "Автодок - Самара",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Самара, ул. ХХII партсъезда, строение №27/1",
+        "mapLatitude": 53.198393,
+        "mapLongitude": 50.245823
+      },
+      "phones": [
+        "+7 (846) 300-43-15",
+        " +7 (939) 755-86-33"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "samara@autodoc.ru"
+    },
+    {
+      "id": 360,
+      "nameForMap": "Автодок - Саранск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Саранск, ул. Ботевградская, д.65",
+        "mapLatitude": 54.187322,
+        "mapLongitude": 45.172494
+      },
+      "phones": [
+        "+7 (8342) 22-34-00",
+        " +7 (927) 643-45-05"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "sar@autodoc.ru"
+    },
+    {
+      "id": 97,
+      "nameForMap": "Автодок - Саратов",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Саратов, 2-й Станционный проезд, д.6 Б",
+        "mapLatitude": 51.514131,
+        "mapLongitude": 45.98872
+      },
+      "phones": [
+        "+7 (8452) 490-664"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "saratov@autodoc.ru"
+    },
+    {
+      "id": 475,
+      "nameForMap": "Автодок - Саратов",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Саратов, ул.Тархова, д.41/1",
+        "mapLatitude": 51.609814,
+        "mapLongitude": 46.015601
+      },
+      "phones": [
+        "+7 (8452) 33-80-05 ",
+        "  +7 (906) 150-99-85"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "srk@autodoc.ru"
+    },
+    {
+      "id": 211,
+      "nameForMap": "Автодок - Саратов",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Саратов, ул.Усть-Курдюмская, д.7 Б",
+        "mapLatitude": 51.572539,
+        "mapLongitude": 46.069689
+      },
+      "phones": [
+        "+7 (8452) 77-21-64"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "saratov@autodoc.ru"
+    },
+    {
+      "id": 114,
+      "nameForMap": "Автодок - Северодвинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Северодвинск, ул. Карла Маркса, д.5",
+        "mapLatitude": 64.560912,
+        "mapLongitude": 39.809742
+      },
+      "phones": [
+        "+7 (950) 962-33-00",
+        " +7 (950) 962-20-20"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "severodvinsk@autodoc.ru"
+    },
+    {
+      "id": 267,
+      "nameForMap": "Автодок - Серов",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Серов, ул. Заславского, д.27",
+        "mapLatitude": 59.603361,
+        "mapLongitude": 60.572864
+      },
+      "phones": [
+        "+7 (34385) 54-250"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "serov5@autodoc.ru"
+    },
+    {
+      "id": 22,
+      "nameForMap": "Автодок - Смоленск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Смоленск, ул. 25 сентября, д.46",
+        "mapLatitude": 54.767717,
+        "mapLongitude": 32.083006
+      },
+      "phones": [
+        "+7 (4812) 69-25-25",
+        "+7 (4812) 56-16-18 ",
+        "+7 (4812) 56-75-95"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "smolensk@autodoc.ru"
+    },
+    {
+      "id": 441,
+      "nameForMap": "Автодок - Смоленск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Смоленск, ул. Черняховского, д.15",
+        "mapLatitude": 54.76574,
+        "mapLongitude": 32.02748
+      },
+      "phones": [
+        "+7 (4812) 60-52-52",
+        " +7 (4812) 60-54-54"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "smolensk6@autodoc.ru"
+    },
+    {
+      "id": 366,
+      "nameForMap": "Автодок - Сочи",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Сочи, ул. Красноармейская, д.15",
+        "mapLatitude": 43.599415,
+        "mapLongitude": 39.720252
+      },
+      "phones": [
+        "+7 (862) 225-87-04",
+        " +7 (938) 503-50-54"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "soch@autodoc.ru"
+    },
+    {
+      "id": 10,
+      "nameForMap": "Автодок - Ставрополь",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ставрополь, 2-й Юго-Западный проезд, д.3",
+        "mapLatitude": 44.99862,
+        "mapLongitude": 41.92786
+      },
+      "phones": [
+        "+7 (8652) 90-60-46",
+        " +7 (8652) 66-14-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "stavropol@autodoc.ru"
+    },
+    {
+      "id": 104,
+      "nameForMap": "Автодок - Стерлитамак",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Стерлитамак, ул. К.Маркса, д.124",
+        "mapLatitude": 53.651622,
+        "mapLongitude": 55.962069
+      },
+      "phones": [
+        "+7 (3473) 41-10-03"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "sterlitamak@autodoc.ru"
+    },
+    {
+      "id": 210,
+      "nameForMap": "Автодок - Сургут",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Сургут, ул. Быстринская, д.23/2",
+        "mapLatitude": 61.25832,
+        "mapLongitude": 73.44598
+      },
+      "phones": [
+        "+7 (3462) 77-17-77"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "surgut@autodoc.ru"
+    },
+    {
+      "id": 459,
+      "nameForMap": "Автодок - Сыктывкар",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Сыктывкар, Октябрьский проспект, д.5",
+        "mapLatitude": 61.658614,
+        "mapLongitude": 50.828788
+      },
+      "phones": [
+        "+7 (8212) 23-90-77",
+        "  +7 (963) 489-80-70"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "skt@autodoc.ru"
+    },
+    {
+      "id": 401,
+      "nameForMap": "АВТОДОК - Таганрог",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Таганрог, ул. Чехова, д. 219",
+        "mapLatitude": 47.217081,
+        "mapLongitude": 38.901788
+      },
+      "phones": [
+        "+7 (8634) 43-10-53",
+        " +7 (938) 109-99-25",
+        " +7 (952) 580-17-62"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tgn@autodoc.ru"
+    },
+    {
+      "id": 316,
+      "nameForMap": "Автодок - Тамбов",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Тамбов, ул. Мичуринская, д.185А, корп. 1",
+        "mapLatitude": 52.76026,
+        "mapLongitude": 41.404021
+      },
+      "phones": [
+        "+7 (4752) 701-800"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tambovM@autodoc.ru"
+    },
+    {
+      "id": 12,
+      "nameForMap": "Автодок - Тамбов",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Тамбов, Успенская площадь, д.1В",
+        "mapLatitude": 52.725512,
+        "mapLongitude": 41.433835
+      },
+      "phones": [
+        "+7 (953) 711-08-00"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tambov@autodoc.ru"
+    },
+    {
+      "id": 426,
+      "nameForMap": "Автодок - Тверь",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Тверь, ул. Дарвина, д.4, корп.1",
+        "mapLatitude": 56.848548,
+        "mapLongitude": 35.902968
+      },
+      "phones": [
+        "+7 (4822) 41-58-56",
+        " +7 (920) 686-08-48"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tver@autodoc.ru"
+    },
+    {
+      "id": 501,
+      "nameForMap": "Автодок - Томск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Томск, проспект Фрунзе, д.130А",
+        "mapLatitude": 56.476299,
+        "mapLongitude": 84.98879
+      },
+      "phones": [
+        "+7 (382) 299-05-51",
+        " +7 (960) 969-35-14"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tmsk@autodoc.ru"
+    },
+    {
+      "id": 506,
+      "nameForMap": "Автодок - Тула",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Тула, Городской переулок,  д.15Б",
+        "mapLatitude": 54.161359,
+        "mapLongitude": 37.599717
+      },
+      "phones": [
+        "+7 (4872) 700-440 доб.2",
+        " +7 (961) 263-79-31"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tulb@autodoc.ru"
+    },
+    {
+      "id": 369,
+      "nameForMap": "Автодок - Тула",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Тула, ул. Кирова, д. 25",
+        "mapLatitude": 54.201092,
+        "mapLongitude": 37.648717
+      },
+      "phones": [
+        "+7 (4872) 700-440 доб.1",
+        " +7 (920) 274-04-40"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tula@autodoc.ru"
+    },
+    {
+      "id": 141,
+      "nameForMap": "Автодок - Тюмень",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Тюмень,  ул. Амурская д.2",
+        "mapLatitude": 57.138322,
+        "mapLongitude": 65.504812
+      },
+      "phones": [
+        "+7 (3452) 44-35-44",
+        " +7 (3452) 55-01-15"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "tmn@autodoc.ru"
+    },
+    {
+      "id": 397,
+      "nameForMap": "Автодок - Ульяновск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ульяновск, ул.12 Сентября, д.108",
+        "mapLatitude": 54.307682,
+        "mapLongitude": 48.379136
+      },
+      "phones": [
+        "+7 (8422) 79-07-20",
+        " +7 (937) 880-79-59"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ulg@autodoc.ru"
+    },
+    {
+      "id": 432,
+      "nameForMap": "Автодок - Уфа",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Уфа, проспект Октября, д.131",
+        "mapLatitude": 54.792681,
+        "mapLongitude": 56.036557
+      },
+      "phones": [
+        "+7 (347) 200-07-08 ",
+        " +7 (987) 254-49-45"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ufa@autodoc.ru"
+    },
+    {
+      "id": 430,
+      "nameForMap": "Автодок - Уфа",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Уфа, ул. Бабушкина, д.8",
+        "mapLatitude": 54.74322,
+        "mapLongitude": 55.985077
+      },
+      "phones": [
+        "+7 (347) 200-07-08 ",
+        " +7 (917) 77-25-231"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ufa@autodoc.ru"
+    },
+    {
+      "id": 361,
+      "nameForMap": "Автодок - Уфа",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Уфа, ул. Бакалинская д. 33",
+        "mapLatitude": 54.718271,
+        "mapLongitude": 55.981146
+      },
+      "phones": [
+        "+7 (347) 200-07-08 ",
+        " +7 (987) 254-04-34"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ufa@autodoc.ru"
+    },
+    {
+      "id": 431,
+      "nameForMap": "Автодок - Уфа",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Уфа, ул. Гагарина, д.47",
+        "mapLatitude": 54.772987,
+        "mapLongitude": 56.0775
+      },
+      "phones": [
+        "+7 (347) 200-07-08 ",
+        " +7 (987) 254-03-40"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ufa@autodoc.ru"
+    },
+    {
+      "id": 429,
+      "nameForMap": "Автодок - Уфа",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Уфа, ул. Достоевского, д.45",
+        "mapLatitude": 54.735274,
+        "mapLongitude": 55.949029
+      },
+      "phones": [
+        "+7 (347) 200-07-08 ",
+        " +7 (987) 254-71-88"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ufa@autodoc.ru"
+    },
+    {
+      "id": 102,
+      "nameForMap": "Автодок - Уфа",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Уфа, ул. Первомайская, д.80",
+        "mapLatitude": 54.809223,
+        "mapLongitude": 56.103361
+      },
+      "phones": [
+        "+7 (347) 200-07-08",
+        "  +7 (917) 79-59-275"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ufa@autodoc.ru"
+    },
+    {
+      "id": 140,
+      "nameForMap": "Автодок - Ухта",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ухта, ул. Береговая, д.5 А",
+        "mapLatitude": 63.557619,
+        "mapLongitude": 53.664323
+      },
+      "phones": [
+        "+7 (904) 220-18-88"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "uhta@autodoc.ru"
+    },
+    {
+      "id": 511,
+      "nameForMap": "Автодок - Хабаровск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Хабаровск, ул. Большая, 2 А",
+        "mapLatitude": 48.497883,
+        "mapLongitude": 135.09907
+      },
+      "phones": [
+        "+7 (4212) 46-07-09 +7 (4212) 46-07-10"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "khv@autodoc.ru"
+    },
+    {
+      "id": 145,
+      "nameForMap": "Автодок - Ханты-Мансийск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ханты-Мансийск, ул. Патриса Лумумбы, д.11",
+        "mapLatitude": 61.000474,
+        "mapLongitude": 69.036801
+      },
+      "phones": [
+        "+7 (3467) 33-54-21",
+        " +7 (3467) 33-54-14",
+        " +7 (3467) 322-322"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "hm@autodoc.ru"
+    },
+    {
+      "id": 372,
+      "nameForMap": "Автодок - Чебоксары",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Чебоксары, ул. Гагарина, д.12",
+        "mapLatitude": 56.123245,
+        "mapLongitude": 47.254274
+      },
+      "phones": [
+        "+7 (8352) 238-8-78 ",
+        " +7 (937) 386-06-51"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "cheb@autodoc.ru"
+    },
+    {
+      "id": 472,
+      "nameForMap": "Автодок - Челябинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Челябинск,  ул.Калинина, д.15",
+        "mapLatitude": 55.177648,
+        "mapLongitude": 61.414744
+      },
+      "phones": [
+        "+7 (351) 211-08-08",
+        " +7 (351) 211-50-05"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "chelyabinsk4@autodoc.ru"
+    },
+    {
+      "id": 216,
+      "nameForMap": "Автодок - Челябинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Челябинск, ул. 40 лет Победы, д.16",
+        "mapLatitude": 55.187661,
+        "mapLongitude": 61.296022
+      },
+      "phones": [
+        "+7 (351) 7-555-700"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "chl1@autodoc.ru"
+    },
+    {
+      "id": 215,
+      "nameForMap": "Автодок - Челябинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Челябинск, ул. Бажова, д.97",
+        "mapLatitude": 55.181679,
+        "mapLongitude": 61.450953
+      },
+      "phones": [
+        "+7 (351) 225-45-05",
+        " +7 (351) 258-66-88"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "chtz@autodoc.ru"
+    },
+    {
+      "id": 29,
+      "nameForMap": "Автодок - Челябинск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Челябинск, ул. Доватора, д.32",
+        "mapLatitude": 55.142555,
+        "mapLongitude": 61.391558
+      },
+      "phones": [
+        "+7 (351) 211-50-05",
+        " +7 (351) 233-66-88"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "chelyabinsk5@autodoc.ru"
+    },
+    {
+      "id": 1,
+      "nameForMap": "Автодок - Череповец",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Череповец, ул. Металлургов, д.8",
+        "mapLatitude": 59.129752,
+        "mapLongitude": 37.909956
+      },
+      "phones": [
+        "+7 (8202) 57-69-17",
+        " +7 (906) 296-94-15"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "cherepovets@autodoc.ru"
+    },
+    {
+      "id": 485,
+      "nameForMap": "Автодок - Череповец",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Череповец, ул. Юбилейная, д.49",
+        "mapLatitude": 59.128579,
+        "mapLongitude": 37.996913
+      },
+      "phones": [
+        "+7 (8202) 26-82-62"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "cherepovets@autodoc.ru"
+    },
+    {
+      "id": 236,
+      "nameForMap": "АВТОДОК-Энгельс",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Энгельс, ул. Петровская, д.63",
+        "mapLatitude": 51.496771,
+        "mapLongitude": 46.119248
+      },
+      "phones": [
+        "+7 (8452) 77-86-94",
+        " +7 (8452) 77-87-94"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "engels@autodoc.ru"
+    },
+    {
+      "id": 461,
+      "nameForMap": "Автодок - Югорск",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Югорск, ул. Железнодорожная, д.55",
+        "mapLatitude": 61.314431,
+        "mapLongitude": 63.346613
+      },
+      "phones": [
+        "+7 (958) 761-95-15"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "ugr@autodoc.ru"
+    },
+    {
+      "id": 417,
+      "nameForMap": "Автодок - Ярославль",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ярославль , ул. Блюхера, д.48/5",
+        "mapLatitude": 57.686917,
+        "mapLongitude": 39.805403
+      },
+      "phones": [
+        "+7 (4852) 333-682"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "yaroslavl@autodoc.ru"
+    },
+    {
+      "id": 233,
+      "nameForMap": "Автодок - Ярославль",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ярославль, ул. Калинина, д.31",
+        "mapLatitude": 57.570957,
+        "mapLongitude": 39.85955
+      },
+      "phones": [
+        "+7 (4852) 33-75-03"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "yaroslavl@autodoc.ru"
+    },
+    {
+      "id": 86,
+      "nameForMap": "Автодок - Ярославль",
+      "address": {
+        "regionName": "Россия",
+        "address": "г. Ярославль, ул. Лисицына, д.7",
+        "mapLatitude": 57.61946,
+        "mapLongitude": 39.852716
+      },
+      "phones": [
+        "+7 (4852) 333-783"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "yaroslavl@autodoc.ru"
+    },
+    {
+      "id": 391,
+      "nameForMap": "Автодок - Москва",
+      "address": {
+        "regionName": "Россия",
+        "address": "Служба доставки по России",
+        "mapLatitude": 0.0,
+        "mapLongitude": 0.0
+      },
+      "phones": [
+        "+7 (800) 777-99-80",
+        " +7 (495) 777-99-80"
+      ],
+      "note": "",
+      "payTypes": [],
+      "managers": [],
+      "photos": [],
+      "scheduleOnHoliday": [],
+      "email": "post@autodoc.ru; post1@autodoc.ru"
+    }
+  ]
+}
