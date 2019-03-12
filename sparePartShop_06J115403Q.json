@@ -1,0 +1,22 @@
+{
+  "sparePartShops": [
+    {
+      "shopId": 154,
+      "address": "г. Липецк, ул. Гагарина д.23",
+      "quantity": 1,
+      "clientProfileId": 2865849,
+      "clientProfileCode": "LIPS-9177",
+      "price": 770.0000,
+      "cityId": 57
+    },
+    {
+      "shopId": 241,
+      "address": "г. Липецк, проспект Мира, д.14",
+      "quantity": 1,
+      "clientProfileId": 578346,
+      "clientProfileCode": "LIPT-654",
+      "price": 775.0000,
+      "cityId": 57
+    }
+  ]
+}
