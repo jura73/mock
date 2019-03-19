@@ -93,7 +93,7 @@
       "ClientLogin": "ST-68",
       "History": [],
       "ManufacturerId": 511,
-      "ManufacturerName": "BMW",
+      "ManufacturerName": "BMW/MINI/RR",
       "PartNumberReplace": null,
       "OrderType": 1
     },
@@ -162,7 +162,7 @@
       "ClientLogin": "ST-68",
       "History": [],
       "ManufacturerId": 553,
-      "ManufacturerName": "BMW",
+      "ManufacturerName": "BMW/MINI/RR",
       "PartNumberReplace": null,
       "OrderType": 1
     },
@@ -185,7 +185,7 @@
       "ClientLogin": "ST-68",
       "History": [],
       "ManufacturerId": 511,
-      "ManufacturerName": "BMW",
+      "ManufacturerName": "BMW/MINI/RR",
       "PartNumberReplace": null,
       "OrderType": 1
     }
