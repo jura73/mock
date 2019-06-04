@@ -18,11 +18,11 @@
                     "PopularityIndex": 0
                 },
                 "Supplier": {
-                    "Name": "ƒилер",
+                    "Name": "Дилер",
                     "IsTodayOrderDate": false,
                     "NextOrderDate": "0001-01-01T00:00:00",
                     "NextOrderDateString": null,
-                    "Schedule": "«аказы отправл¤ютс¤ поставщику <br>пн (3 раза): 8:00, 11:00, 15:00<br>вт (3 раза): 8:00, 11:00, 15:00<br>ср (3 раза): 8:00, 11:00, 15:00<br>чт (3 раза): 8:00, 11:00, 15:00<br>пт (3 раза): 8:00, 11:00, 15:00<br>сб (2 раза): 8:00, 15:00<br>",
+                    "Schedule": "Заказы отправляются поставщику <br>пн (3 раза): 8:00, 11:00, 15:00<br>вт (3 раза): 8:00, 11:00, 15:00<br>ср (3 раза): 8:00, 11:00, 15:00<br>чт (3 раза): 8:00, 11:00, 15:00<br>пт (3 раза): 8:00, 11:00, 15:00<br>сб (2 раза): 8:00, 15:00<br>",
                     "ScheduleDays": [
                         "пн (3 раза): 8:00, 11:00, 15:00",
                         "вт (3 раза): 8:00, 11:00, 15:00",
@@ -33,10 +33,10 @@
                     ],
                     "IsAutodocMoscow": false,
                     "IsMagazine": false,
-                    "Description": "—клад дилера"
+                    "Description": "Склад дилера"
                 }
             },
-            "Name": "»ндикатор износа тормозных колодок ",
+            "Name": "Индикатор износа тормозных колодок ",
             "Quantity": 1,
             "Price": 2092,
             "PriceType": 2,
@@ -64,11 +64,11 @@
                     "PopularityIndex": 0
                 },
                 "Supplier": {
-                    "Name": "ƒилер",
+                    "Name": "Дилер",
                     "IsTodayOrderDate": false,
                     "NextOrderDate": "0001-01-01T00:00:00",
                     "NextOrderDateString": null,
-                    "Schedule": "«аказы отправл¤ютс¤ поставщику <br>пн (1 раз): 13:00<br>вт (1 раз): 13:00<br>чт (1 раз): 13:00<br>пт (1 раз): 13:00<br>",
+                    "Schedule": "Заказы отправляются поставщику <br>пн (1 раз): 13:00<br>вт (1 раз): 13:00<br>чт (1 раз): 13:00<br>пт (1 раз): 13:00<br>",
                     "ScheduleDays": [
                         "пн (1 раз): 13:00",
                         "вт (1 раз): 13:00",
@@ -77,10 +77,10 @@
                     ],
                     "IsAutodocMoscow": false,
                     "IsMagazine": false,
-                    "Description": "—клад дилера"
+                    "Description": "Склад дилера"
                 }
             },
-            "Name": "—веча зажигани¤",
+            "Name": "Свеча зажигания",
             "Quantity": 6,
             "Price": 976,
             "PriceType": 2,
@@ -108,18 +108,18 @@
                     "PopularityIndex": 0
                 },
                 "Supplier": {
-                    "Name": "ƒилер",
+                    "Name": "Дилер",
                     "IsTodayOrderDate": false,
                     "NextOrderDate": "0001-01-01T00:00:00",
                     "NextOrderDateString": null,
-                    "Schedule": "«аказы отправл¤ютс¤ поставщику по будн¤м (1 раз): 7:30",
+                    "Schedule": "Заказы отправляются поставщику по будням (1 раз): 7:30",
                     "ScheduleDays": [],
                     "IsAutodocMoscow": false,
                     "IsMagazine": false,
-                    "Description": "—клад дилера"
+                    "Description": "Склад дилера"
                 }
             },
-            "Name": "‘ильтр масл¤ный",
+            "Name": "Фильтр масляный",
             "Quantity": 1,
             "Price": 1456,
             "PriceType": 2,
