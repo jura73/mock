@@ -1,0 +1,140 @@
+{
+    "Id": 0,
+    "Items": [
+        {
+            "Id": 646353163,
+            "IdPartner": 1243,
+            "PriceItem": {
+                "Id": 0,
+                "DirectionToManufacturerId": 0,
+                "PartNumber": "95B 907 253",
+                "PartName": "",
+                "Manufacturer": {
+                    "Id": 565,
+                    "Name": "PORSCHE",
+                    "Description": null,
+                    "Url": null,
+                    "CatalogUrl": null,
+                    "PopularityIndex": 0
+                },
+                "Supplier": {
+                    "Name": "ƒилер",
+                    "IsTodayOrderDate": false,
+                    "NextOrderDate": "0001-01-01T00:00:00",
+                    "NextOrderDateString": null,
+                    "Schedule": "«аказы отправл¤ютс¤ поставщику <br>пн (3 раза): 8:00, 11:00, 15:00<br>вт (3 раза): 8:00, 11:00, 15:00<br>ср (3 раза): 8:00, 11:00, 15:00<br>чт (3 раза): 8:00, 11:00, 15:00<br>пт (3 раза): 8:00, 11:00, 15:00<br>сб (2 раза): 8:00, 15:00<br>",
+                    "ScheduleDays": [
+                        "пн (3 раза): 8:00, 11:00, 15:00",
+                        "вт (3 раза): 8:00, 11:00, 15:00",
+                        "ср (3 раза): 8:00, 11:00, 15:00",
+                        "чт (3 раза): 8:00, 11:00, 15:00",
+                        "пт (3 раза): 8:00, 11:00, 15:00",
+                        "сб (2 раза): 8:00, 15:00"
+                    ],
+                    "IsAutodocMoscow": false,
+                    "IsMagazine": false,
+                    "Description": "—клад дилера"
+                }
+            },
+            "Name": "»ндикатор износа тормозных колодок ",
+            "Quantity": 1,
+            "Price": 2092,
+            "PriceType": 2,
+            "Description": null,
+            "PriceDelta": 189,
+            "DeliveryDays": 1,
+            "Total": 2092,
+            "MinimalQuantity": 1,
+            "OrderCompletePercent": 98
+        },
+        {
+            "Id": 646353179,
+            "IdPartner": 2151,
+            "PriceItem": {
+                "Id": 0,
+                "DirectionToManufacturerId": 0,
+                "PartNumber": "12 12 0 037 582",
+                "PartName": "",
+                "Manufacturer": {
+                    "Id": 511,
+                    "Name": "BMW/MINI/RR",
+                    "Description": null,
+                    "Url": null,
+                    "CatalogUrl": null,
+                    "PopularityIndex": 0
+                },
+                "Supplier": {
+                    "Name": "ƒилер",
+                    "IsTodayOrderDate": false,
+                    "NextOrderDate": "0001-01-01T00:00:00",
+                    "NextOrderDateString": null,
+                    "Schedule": "«аказы отправл¤ютс¤ поставщику <br>пн (1 раз): 13:00<br>вт (1 раз): 13:00<br>чт (1 раз): 13:00<br>пт (1 раз): 13:00<br>",
+                    "ScheduleDays": [
+                        "пн (1 раз): 13:00",
+                        "вт (1 раз): 13:00",
+                        "чт (1 раз): 13:00",
+                        "пт (1 раз): 13:00"
+                    ],
+                    "IsAutodocMoscow": false,
+                    "IsMagazine": false,
+                    "Description": "—клад дилера"
+                }
+            },
+            "Name": "—веча зажигани¤",
+            "Quantity": 6,
+            "Price": 976,
+            "PriceType": 2,
+            "Description": null,
+            "PriceDelta": -31,
+            "DeliveryDays": 1,
+            "Total": 5856,
+            "MinimalQuantity": 1,
+            "OrderCompletePercent": 99
+        },
+        {
+            "Id": 670066923,
+            "IdPartner": 2862,
+            "PriceItem": {
+                "Id": 0,
+                "DirectionToManufacturerId": 0,
+                "PartNumber": "A 278 180 00 09",
+                "PartName": "",
+                "Manufacturer": {
+                    "Id": 553,
+                    "Name": "MERCEDES BENZ",
+                    "Description": null,
+                    "Url": null,
+                    "CatalogUrl": null,
+                    "PopularityIndex": 0
+                },
+                "Supplier": {
+                    "Name": "ƒилер",
+                    "IsTodayOrderDate": false,
+                    "NextOrderDate": "0001-01-01T00:00:00",
+                    "NextOrderDateString": null,
+                    "Schedule": "«аказы отправл¤ютс¤ поставщику по будн¤м (1 раз): 7:30",
+                    "ScheduleDays": [],
+                    "IsAutodocMoscow": false,
+                    "IsMagazine": false,
+                    "Description": "—клад дилера"
+                }
+            },
+            "Name": "‘ильтр масл¤ный",
+            "Quantity": 1,
+            "Price": 1456,
+            "PriceType": 2,
+            "Description": null,
+            "PriceDelta": 4,
+            "DeliveryDays": 1,
+            "Total": 1456,
+            "MinimalQuantity": 1,
+            "OrderCompletePercent": 99
+        }
+    ],
+    "Client": null,
+    "CreatedAt": "0001-01-01T00:00:00",
+    "Comment": null,
+    "CheckByVin": true,
+    "PromoToken": 0,
+    "Total": 9404
+}
